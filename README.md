@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Louis, founder of Narbots, and a french tech curious engineer in robotics
-- 👀 I’m interested in a lot of computing science. I started to play with many projets, then I programmed games in C# with Unity, Robots with Ros, Ros2, Isaac Sim, Isaac Lab. I made industrial project with RoboDK. I made an object detection works on a jetson nano for an underwater robot, made an IHM for an industrial control machine and now :
+- 👀 I’m interested in a lot of computing science. I started to play with many projets, then I programmed softwares in C++, developped Robots with Ros, Ros2, Isaac Sim, Isaac Lab. I made industrial project with RoboDK. I made an object detection works on a jetson nano for an underwater robot, made an IHM for an industrial control machine and now :
 - 🌱 I’m currently creating my own company Narbots.
 - 📫 How to reach me : louis.narbot@gmail.com, my LinkedIn is Louis Narbot.
